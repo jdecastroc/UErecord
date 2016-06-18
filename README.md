@@ -13,7 +13,9 @@ The following project is a non-official UE project.
 
 ## Technologies
 Model: Jsoup and Selenium
+
 Controller: Spring framework
+
 App client: HTML5, Javascript, AJAX, Daemonite's Material UI (https://github.com/Daemonite/material)
 
 ## Copyright
